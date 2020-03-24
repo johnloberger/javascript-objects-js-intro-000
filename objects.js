@@ -1,1 +1,1 @@
-var playlist = object{(songName, artistName)}
+var playlist = object{(songTitle, artistName)}
